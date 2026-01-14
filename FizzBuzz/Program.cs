@@ -4,6 +4,6 @@
     }else if (i % 5 == 0) {
         Console.WriteLine(i + " - Buzzz ");
     }else if (i % 3 == 0) {
-        Console.WriteLine(i + " - Fizzzzzzzzzz ");
+        Console.WriteLine(i + " - Fizzzzzzzzzzzz ");
     } else { Console.WriteLine(i);}
 }
